@@ -1,0 +1,31 @@
+---
+title: "Research"
+---
+
+::: justify
+**Working Papers**
+
+[Estimating time-variation in matching efficiency and match elasticity for the US labor market](Job_market_paper_Prajyna.pdf) (Job market paper)
+
+[Conference presentations]{.underline}: 2025 SEA (upcoming), 2025 SNDE, 2024 SEA, NTxEC 2024, 2024 MEG, 2024 WEAI
+
+The paper estimates time-varying matching efficiency and match elasticity within a Cobb-Douglas matching function for the U.S. non-farm sector, using a state-space model. It evaluates two specifications: (i) no constant returns to scale (CRS) with time variation (my baseline model) and (ii) CRS with time variation. I compare these two models with the standard model without time variability, and the results show significant time variation in both parameters, even under stochastic volatility. Counterfactual vacancy estimates reveal that the non-CRS baseline model fits the data best. This model suggests a gradual decline in matching efficiency, indicating growing labor market inefficiencies. Matching efficiency and match elasticity with respect to unemployment are found to be procyclical. The procyclicality in efficiency can be attributed to reduced sectoral reallocation, as seen in CPS data, driven by structural economic shifts. Procyclical match elasticity points to the nonlinear effect of labor market tightness on the job-finding rate. The paper also finds a rise in the efficient unemployment rate after COVID-19, as estimated by the baseline model.
+
+**Estimated Output Gap in a Wage-Inflation Expectations Model** (with Azharul Islam, Irina Panovska, Srikanth Ramamurthy)
+
+We study how incorporating adaptive learning-based inflation expectations for price and wage inflation can improve the performance of Unobserved Components (UC) models both when it comes to inference about the output gap and when it comes to forecasting performance. We use a quasi-structural model where the statistical UC decomposition is augmented with an inflation and a wage Phillips curve, and both the output gap and price and wage inflation expectations are estimated endogenously. To endogenize the expectations process, we incorporate learning-based expectations and bivariate feedback in the learning dynamics for wage and price inflation. Our model directly integrates the expectations dynamics of the Hybrid New Keynesian Philips Curve while also retaining the appealing statistical features of the UC framework, allowing us to extract information about the output gap. Several interesting sets of results stand out. First, we find conclusive evidence of bivariate feedback in the dynamics of price and wage inflation expectations. Second, while the perceived persistence of inflation fell during the early stages of the COVID pandemic, it increased sharply and substantially during the period 2021Q2-2022Q. Third, the estimated output gap started decreasing in mid-2019 prior to the pandemic, decreased sharply during the early stages of the pandemic, and bounced back rapidly. When compared to models that do not include information about wages and to models that do not endogenize inflation, our approach tracks recession dates quite closely. Finally, including information about the output gap and about the price and wage inflation expectations process helps improve macroeconomic forecasts for GDP growth, wage, and price inflation.
+:::
+
+::: justify
+**Understanding unemployment dynamics**
+
+[Conference presentation:]{.underline} NTxEC 2025 (upcoming)
+
+In this paper, I revisit unemployment dynamics over the period 2003–2024, both in aggregate and across industries, using micro-level CPS data from IPUMS. Transitions from non-participation to both employment and unemployment play an important role. During the Great Recession, the increase in unemployment reflected both stronger inflows into unemployment (from employment and the labor force) and weaker outflows into employment. In contrast, during COVID-19, the sharp increase in unemployment was driven almost entirely by higher inflows from employment into unemployment. The relative importance of different flows for the cyclicality of unemployment also shifted over time. Between 2006 and 2012, job separations and job-finding rates had effects of comparable magnitude. However, in the subsequent period countercyclical separations became the dominant driver of cyclical fluctuations in unemployment, while the role of job finding diminished. Finally, the variation in the transitions from nonparticipation to unemployment accounted for 15–20% of the cyclical variation in the unemployment rate between 2013 and 2024. At an industry level, not all industries are at steady state, and the paper looks at out-of-steady state dynamics to decompose the variations in unemployment rate to the labor market flows.
+:::
+
+::: justify
+[Mexico's Labor Market through the Lens of the Beveridge Curve](Mexico_paper.pdf) (with Luis Fernando Colunga-Ramos, Irina Panovska, Miroslava Quiroga-Trevino, B. Elam Rodríguez-Alcaraz)
+
+This paper presents the first Beveridge Curves for Mexico and its regions, constructed from a newly compiled dataset on job vacancies. Focusing on the post-COVID-19 period, the evidence reveals a sharp rise in labor market slack at the onset of the pandemic, followed by a gradual tightening from 2021 onward, with northern regions experiencing a faster recovery. By 2023, vacancy rates had declined without a corresponding increase in unemployment, suggesting a rebalancing of labor demand across regions. Building on the vacancy–unemployment relationship that defines the Beveridge Curve, the paper also develops the first measure of labor market slack for Mexico: the vacancy to unemployment (V/U) ratio, which is then used to analyze the relationship between labor market conditions and inflation. In addition, incorporating vacancy data into a Structural Bayesian VAR allows for the identification of structural labor market shocks and the examination of business cycle dynamics.The results indicate that Beveridge Curve variables are primarily driven by labor market shocks: unemployment dynamics are explained mainly by labor supply and matching efficiency shocks, while wage bargaining shocks account for most of the variation in vacancies at the national level, with notable heterogeneity across regions.
+:::

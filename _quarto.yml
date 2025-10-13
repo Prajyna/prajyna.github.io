@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: ""
+  navbar:
+    right:
+      - href: index.qmd 
+        text: Home
+      - href: Research.qmd
+        text: Research
+      - href: Teaching.qmd
+        text: Teaching
+      - href: Resume.qmd
+        text: Resume
+      - href: Contact.qmd
+        text: Contact Details
+      
+      
+      
+format:
+  html:
+    backgroundcolor: "#f5f5f5"
+    fontcolor: "black"
+    linkcolor: "darkblue"
+    theme: [cosmo, styles.scss]
+
