@@ -27,5 +27,5 @@ You can find my [teaching philosophy](teachingPhil.qmd) and [research statement]
 
 **Contact Information**
 
-If you’d like to learn more about my background, please feel free to [view my CV here](Resume.qmd).
+If you’d like to learn more about my background, please feel free to [view my CV here](Resume.pdf).
 :::
