@@ -1,7 +1,7 @@
 ---
 title: ""
 format: 
-  html:
+  pdf:
     documentclass: article
     geometry:
       - top=15mm
@@ -63,7 +63,5 @@ We focused on helping students understand mathematical relationships in the cont
 
 I was also part of the virtual exchange program for Contemporary Macroeconomic Policy as teaching assistant. The virtual collaboration was between students from UTD and University of Marburg, Germany. We created a comprehensive agenda outlining key dates, expectations, grading criteria, and resource links to support students throughout the collaboration. Teams were thoughtfully formed to foster cohesion, and a WhatsApp group—established with consent—enabled informal communication without instructor interference. We encouraged participation through suggested ice-breakers and used Padlet to facilitate easy video sharing. Ongoing coordination between faculty and teaching assistants on both sides ensured the collaboration ran smoothly. This experience underscored how intentional design and responsiveness can create an inclusive, dynamic learning environment incorporating different geographies. In the business and economic forecasting class, where I served as a teaching assistant, students developed research projects that applied various quantitative and forecasting techniques and evaluated the performance of their models.
 
-In all of my teaching, I aim to inspire curiosity, build confidence, and equip students with both the theoretical grounding and practical tools they need to succeed. I am happy to teach any courses as needed, however, based on my research and teaching experience, I am particularly well equipped to teach principles of microeconomics and macroeconomics, intermediate microeconomics and macroeconomics, international trade, business statistics, econometrics and mathematics.
-
-If given the opportunity to work as an Assistant Professor of Economics at \[*Institution*\], I look forward to contributing to a collaborative learning environment with both faculty and students. I aim to integrate research and data analytics into my courses, and mentor students by engaging with them in my research projects, and embrace opportunities to learn alongside them. \[*Last sentence is specific to the program/institution and addresses how I will contribute to the growth and development of the teaching population.*\]
+In all of my teaching, I aim to inspire curiosity, build confidence, and equip students with both the theoretical grounding and practical tools they need to succeed. I am happy to teach any courses as needed, however, based on my research and teaching experience, I am particularly well equipped to teach principles of microeconomics and macroeconomics, intermediate microeconomics and macroeconomics, international trade, business statistics, econometrics and mathematics. I aim to integrate research and data analytics into my courses, and mentor students by engaging with them in my research projects, and embrace opportunities to learn alongside them.
 :::
