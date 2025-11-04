@@ -17,13 +17,13 @@ about: # https://quarto.org/docs/websites/website-about.html
 **Hello and welcome to my website!**
 
 ::: justify
-I am a Ph.D. candidate in Economics at the University of Texas at Dallas. My research focuses on understanding the evolving trade-offs between job vacancies and unemployment in the U.S. labor market. My research focuses on understanding the dynamics of unemployment, in particular how those fluctuations shape the understanding of the Beveridge curve dynamics. I examine the sources of labor market inefficiencies and I also work on understanding the implications changing labor market on output gap and inflation. My primary focus is in empirical macroeconomics and time series analysis.
+I am a Ph.D. candidate in [Economics at the University of Texas at Dallas](https://epps.utdallas.edu). My research focuses on understanding the evolving trade-offs between job vacancies and unemployment in the U.S. labor market. In particular I focus on understanding the dynamics of unemployment and how those fluctuations shape the understanding of the Beveridge curve dynamics. I also work on understanding the implications changing labor market on output gap and inflation. My primary focus is in empirical macroeconomics and time series analysis.
 
-In my [job market paper](Job_market_paper_Prajyna.pdf), I find that decline in job-finding probabilities during recessions in US labor market can be explained by declining matching efficiency. It is also one of the reasons for the shift in the Beveridge curve during the Great Recession. Reallocation among workers due to structural changes in the economy explains such decline. I also find that the affect of labor market tightness is non-linear on hires which suggests that during recessions a decline in labor market tightness reduces the hires by greater extent, than during expansions.
+In my [job market paper](Job_market_paper_Prajyna.pdf), I find that decline in job-finding probabilities during recessions in US labor market can be explained by declining matching efficiency. It is also one of the reasons for the shift in the Beveridge curve during the Great Recession. Reallocation among workers due to structural changes in the economy explains such decline. I also find that the affect of labor market tightness is non-linear on hires which suggests that during recessions a decline in labor market tightness reduces the hires by greater proportion, than during expansions.
 
 You can find my [teaching philosophy](teachingPhil.qmd) and [research statement](researchPhil.qmd) here.
 
 **Contact Information**
 
-If you’d like to learn more about my background, please feel free to [view my CV here](Resume.pdf).
+If you would like to learn more about my background, please feel free to [view my CV here](Resume.pdf).
 :::
