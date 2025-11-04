@@ -7,6 +7,6 @@ format:
 
 #### **Contact Information**
 
-If you’d like to learn more about my background, please feel free to [view my CV here](Resume.qmd).
+If you would like to learn more about my background, please feel free to [view my CV here](Resume.qmd).
 
 [Email me](mailto:barua.prajyna@gmail.com), [Linkendin](https://www.linkedin.com/in/prajynabarua), [Github](https://github.com/Prajyna/prajyna.github.io)
